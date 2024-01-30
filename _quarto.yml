@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Boating and Angling Interview Trial (BAIT)"
+  navbar:
+    left:
+      - href: index.qmd
+      - Project Description.qmd
+      - Data Collected.qmd
+      - Additional Information.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
