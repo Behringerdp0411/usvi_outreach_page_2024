@@ -9,3 +9,5 @@ title: "Data Collected"
 **Fishing Information:** Type of fishing, gear and style used
 
 **Catch Information:** Species caught, disposition (kept or released), number of fish, length and weight
+
+**Other Information:**
